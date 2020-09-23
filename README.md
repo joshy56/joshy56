@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
      - Twitter: [\_joshy23_](https://twitter.com/_joshy23_)
      - Youtube: [joshy23](https://www.youtube.com/channel/UCFiYAlMJUW6rT3U8y7omtng)
+     - SpigotMC: [joshy23](https://www.spigotmc.org/members/joshy23.576132/)
      - Discord: joshy23#6870
 - 😄 Pronouns: joshy56
 - ⚡ Fun fact: 
