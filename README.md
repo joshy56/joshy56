@@ -1,16 +1,20 @@
-### Hi there 👋
-
+# System.out.println("Hi there 👋");
+Currently learning. I'm a junior developer and my main programming language are: Java. But actually i have a basic knowledge on: Javascript, Typescript and Node.Js.
 <!--
 **joshy56/joshy56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on none
+- 🌱 I’m currently learning none
+- 👯 I’m looking to collaborate on anyone
+- 🤔 I’m looking for help with database admistration and data bridge
+- 💬 Ask me about plugins of minecraft
+- 📫 How to reach me:
+     - Twitter: [\_joshy23_](https://twitter.com/_joshy23_)
+     - Youtube: [joshy23](https://www.youtube.com/channel/UCFiYAlMJUW6rT3U8y7omtng)
+     - Discord: joshy23#6870
+- 😄 Pronouns: joshy56
+- ⚡ Fun fact: 
+     - Sometimes i seem like a serious person but really i'm didn't
+
