@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
      - Sometimes i seem like a serious person but really i'm didn't
 <hr>
-![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshy56&layout=compact&theme=react)
+[![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshy56&layout=compact&theme=react)]
