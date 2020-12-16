@@ -5,7 +5,7 @@ Currently learning. I'm a junior developer and my main programming language are:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on translateAPI and JewellsCP
 - 🌱 I’m currently learning about AI and machine learning
 - 👯 I’m looking to collaborate with anyone
 - 🤔 I’m looking for help with how to make a good website
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      - Discord: joshy23#6870
 - 😄 Pronouns: joshy56
 - ⚡ Fun fact: 
-     - Sometimes i seem like a serious person but really i'm didn't
+     - I not have any fun fact to talk you...
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)
