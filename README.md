@@ -5,8 +5,8 @@ Currently learning. I'm a junior developer and my main programming language are:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on translateAPI and JewellsCP
-- 🌱 I’m currently learning about AI and machine learning
+- 🔭 I’m currently working on TranslateAPI and JewellsCP
+- 🌱 I’m currently learning about AI and Machine Learning
 - 👯 I’m looking to collaborate with anyone
 - 🤔 I’m looking for help with how to make a good website
 - 💬 Ask me about plugins of minecraft
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
      - Discord: joshy23#6870
 - 😄 Pronouns: joshy56
 - ⚡ Fun fact: 
-     - I not have any fun fact to talk you...
+     - I’m one of the owners of Mysticland Server [MysticLand GitHub](https://github.com/MysticLandDev)
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)
