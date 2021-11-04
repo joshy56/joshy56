@@ -5,7 +5,7 @@ Currently learning. I'm a junior developer and my main programming language are:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a protection plugin (ProtectMe)
+- 🔭 I’m currently working on a protection plugin (ProtectMe) and a desktop program for sales and statistics for a PyMe (RegistraMe)
 - 🌱 I’m currently learning about JavaFX and Visual applications
 - 👯 I’m looking to collaborate with anyone
 - 🤔 I’m looking for help with how to make a good website
