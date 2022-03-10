@@ -15,7 +15,7 @@ Here are some ideas to get you started:
      - Youtube: [joshy23](https://www.youtube.com/channel/UCFiYAlMJUW6rT3U8y7omtng?sub_confirmation=1)
      - SpigotMC: [joshy23](https://www.spigotmc.org/members/joshy23.576132/)
      - Discord: joshy23#3260
-     - Minecraft: ragus23
+     - Minecraft: joshy23
 - 😄 Pronouns: joshy56
 - ⚡ Fun fact: 
      - I’m one of the owners of Mysticland Server [MysticLand GitHub](https://github.com/MysticLandDev)
