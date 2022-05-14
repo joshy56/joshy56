@@ -5,12 +5,9 @@ Currently learning. I'm a junior developer and my main programming language are:
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a protection plugin (ProtectMe) and a desktop program for sales and statistics for a PyMe (RegistraMe)
-- 🌱 I’m currently learning about JavaFX and Visual applications
+- 🌱 I’m learning about: Everything
 - 👯 I’m looking to collaborate with anyone
-- 🤔 I’m looking for help with how to make a good website
-- 💬 Ask me about plugins of minecraft or Java
-- 📫 How to reach me:
+- 📫 Contact me:
      - Twitter: [\_joshy23_](https://twitter.com/_joshy23_)
      - Youtube: [joshy23](https://www.youtube.com/channel/UCFiYAlMJUW6rT3U8y7omtng?sub_confirmation=1)
      - SpigotMC: [joshy23](https://www.spigotmc.org/members/joshy23.576132/)
@@ -18,7 +15,7 @@ Here are some ideas to get you started:
      - Minecraft: joshy23
 - 😄 Pronouns: joshy56
 - ⚡ Fun fact: 
-     - I’m one of the owners of Mysticland Server [MysticLand GitHub](https://github.com/MysticLandDev)
+     - U can contract me at [LyMarket discord](https://discord.gg/kEuDQADHtZ)
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)
