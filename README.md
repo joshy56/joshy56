@@ -14,8 +14,10 @@ Here are some ideas to get you started:
      - Discord: joshy23#3260
      - Minecraft: joshy23
 - 😄 Pronouns: joshy56
+<!--
 - ⚡ Fun fact: 
      - U can contract me at [LyMarket discord](https://discord.gg/kEuDQADHtZ)
+-->
 <hr>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=joshy56&show_icons=true&theme=react)
